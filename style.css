@@ -1,0 +1,51 @@
+.bord{
+    border: solid 1px;
+    width: 270px;
+    height: 220px;
+}
+
+.output input{
+width: 200px;
+height: 30px;
+margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black; 
+    border: solid 1px black;
+    font-size: 15px;
+    padding: 5px 20px 5px 20px;
+    margin-right: 10px;
+    position: relative;
+    top: 15px;
+    left: 7px;
+    
+}
+
+#c{
+    padding:7px;
+    border-radius: 3px;
+    position: relative;
+    top: 0px;
+    /* margin-bottom: 10px; */
+
+}
+
+
+#dev{
+    padding: 5px 20px 5px 20px;
+}
+
+#point{
+    padding: 5px 22px 5px 21px;
+}
+
+#min{
+    padding: 5px 21px 5px 21.5px;
+}
+
+a:hover{ 
+    background-color: black;
+    color: white;
+}
